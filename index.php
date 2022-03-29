@@ -26,7 +26,7 @@
                     </div>
                     <div>
                         <button name="submit_login" >Login</button>
-                        <a href="#"  id="toSignup">Belum punya akun? buat akun baru <span> disini.  </span> </a>
+                        <a href="../home/index.php"  id="toSignup">Belum punya akun? buat akun baru <span> disini.  </span> </a>
                     </div>
                 </form>
             </div>
@@ -47,7 +47,7 @@
                     </div>
                     <div>
                         <button name="submit_signup">Sign up</button>
-                        <a href="#" id="toLogin">Sudah punya akun? masuk <span> disini.  </span> </a>
+                        <a href="../home/index.php" id="toLogin">Sudah punya akun? masuk <span> disini.  </span> </a>
                     </div>
                 </form>
             </div>
