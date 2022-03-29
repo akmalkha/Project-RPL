@@ -25,7 +25,7 @@
                         <input type="password" name="password" placeholder="Masukan password kamu">
                     </div>
                     <div>
-                        <button href="../home/index.html" name="submit_login" >Login</button>
+                        <a href="../home/index.html" name="submit_login" >Login</a>
                         <a href="#"  id="toSignup">Belum punya akun? buat akun baru <span> disini.  </span> </a>
                     </div>
                 </form>
@@ -46,7 +46,7 @@
                         <input type="text" name="password" placeholder="Masukan password kamu">
                     </div>
                     <div>
-                        <button href="../home/index.html" name="submit_signup">Sign up</button>
+                        <a href="../home/index.html" name="submit_signup">Sign up</a>
                         <a href="#" id="toLogin">Sudah punya akun? masuk <span> disini.  </span> </a>
                     </div>
                 </form>
